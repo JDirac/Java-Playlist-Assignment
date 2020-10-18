@@ -4,5 +4,10 @@ The task was to create Java classes to simulate Tracks and Playlists.
 In this repository I've attached the classes and the driver class I used to test each class.
 
 WHAT I LEARNED FROM THIS PROJECT:
+
 -I learned more about different data structures like Linked Lists and HashMaps.
+
+-Using Libraries like Collections to sort and randomise my lists
+
+-Learned more about OOP and how my classes interact with each other
 
